@@ -71,7 +71,6 @@ Notes:	 Hand coded for Udemy.com
 
 
 
-
 .column1{
     height: 500vh;
 
@@ -109,3 +108,5 @@ Notes:	 Hand coded for Udemy.com
 }
 body{
     background-color: paleturquoise;
+    font-family: 'Aleo';font-size: 22px;
+}
